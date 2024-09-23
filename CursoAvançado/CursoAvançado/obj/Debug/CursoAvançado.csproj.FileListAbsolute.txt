@@ -1,0 +1,10 @@
+D:\CURSOS DE C#\PROJETOS DAS AULAS DE C#\C# Avançado (Q Cursos)\CursoAdvanced\CursoAvançado\CursoAvançado\bin\Debug\CursoAvançado.exe.config
+D:\CURSOS DE C#\PROJETOS DAS AULAS DE C#\C# Avançado (Q Cursos)\CursoAdvanced\CursoAvançado\CursoAvançado\bin\Debug\CursoAvançado.exe
+D:\CURSOS DE C#\PROJETOS DAS AULAS DE C#\C# Avançado (Q Cursos)\CursoAdvanced\CursoAvançado\CursoAvançado\bin\Debug\CursoAvançado.pdb
+D:\CURSOS DE C#\PROJETOS DAS AULAS DE C#\C# Avançado (Q Cursos)\CursoAdvanced\CursoAvançado\CursoAvançado\obj\Debug\CursoAvançado.csproj.AssemblyReference.cache
+D:\CURSOS DE C#\PROJETOS DAS AULAS DE C#\C# Avançado (Q Cursos)\CursoAdvanced\CursoAvançado\CursoAvançado\obj\Debug\CursoAvançado.Form1.resources
+D:\CURSOS DE C#\PROJETOS DAS AULAS DE C#\C# Avançado (Q Cursos)\CursoAdvanced\CursoAvançado\CursoAvançado\obj\Debug\CursoAvançado.Properties.Resources.resources
+D:\CURSOS DE C#\PROJETOS DAS AULAS DE C#\C# Avançado (Q Cursos)\CursoAdvanced\CursoAvançado\CursoAvançado\obj\Debug\CursoAvançado.csproj.GenerateResource.cache
+D:\CURSOS DE C#\PROJETOS DAS AULAS DE C#\C# Avançado (Q Cursos)\CursoAdvanced\CursoAvançado\CursoAvançado\obj\Debug\CursoAvançado.csproj.CoreCompileInputs.cache
+D:\CURSOS DE C#\PROJETOS DAS AULAS DE C#\C# Avançado (Q Cursos)\CursoAdvanced\CursoAvançado\CursoAvançado\obj\Debug\CursoAvançado.exe
+D:\CURSOS DE C#\PROJETOS DAS AULAS DE C#\C# Avançado (Q Cursos)\CursoAdvanced\CursoAvançado\CursoAvançado\obj\Debug\CursoAvançado.pdb
