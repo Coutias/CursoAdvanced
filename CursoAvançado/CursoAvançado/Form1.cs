@@ -30,7 +30,10 @@ namespace CursoAvançado
             else
             {
 
-                Close();
+                timer1.Enabled = false;
+                F_Login frl = new F_Login();
+                frl.Show();
+                this.Visible = false;
 
             }
 

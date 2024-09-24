@@ -8,3 +8,4 @@ D:\CURSOS DE C#\PROJETOS DAS AULAS DE C#\C# Avançado (Q Cursos)\CursoAdvanced\C
 D:\CURSOS DE C#\PROJETOS DAS AULAS DE C#\C# Avançado (Q Cursos)\CursoAdvanced\CursoAvançado\CursoAvançado\obj\Debug\CursoAvançado.csproj.CoreCompileInputs.cache
 D:\CURSOS DE C#\PROJETOS DAS AULAS DE C#\C# Avançado (Q Cursos)\CursoAdvanced\CursoAvançado\CursoAvançado\obj\Debug\CursoAvançado.exe
 D:\CURSOS DE C#\PROJETOS DAS AULAS DE C#\C# Avançado (Q Cursos)\CursoAdvanced\CursoAvançado\CursoAvançado\obj\Debug\CursoAvançado.pdb
+D:\CURSOS DE C#\PROJETOS DAS AULAS DE C#\C# Avançado (Q Cursos)\CursoAdvanced\CursoAvançado\CursoAvançado\obj\Debug\CursoAvançado.F_Login.resources

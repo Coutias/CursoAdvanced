@@ -10,18 +10,11 @@ using System.Windows.Forms;
 
 namespace CursoAvançado
 {
-    public partial class F_Login : Form
+    public partial class F_Principal : Form
     {
-        public F_Login()
+        public F_Principal()
         {
             InitializeComponent();
-        }
-
-        private void button2_Click(object sender, EventArgs e)
-        {
-
-            Close();
-
         }
     }
 }
