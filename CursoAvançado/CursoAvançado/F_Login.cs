@@ -23,5 +23,17 @@ namespace CursoAvançado
             Close();
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+            if (tb_login.Text == "Coutias" && tb_senha.Text == "1101")
+            {
+
+                
+
+            }
+
+        }
     }
 }
